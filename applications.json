@@ -2019,6 +2019,11 @@
       },
       {
         "kind": "Exe",
+        "id": "PowerToys.QuickAccess.exe",
+        "matching_strategy": "Equals"
+      },
+      {
+        "kind": "Exe",
         "id": "Microsoft.CmdPal.UI.exe",
         "matching_strategy": "Equals"
       }
